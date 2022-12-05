@@ -9,6 +9,13 @@
         <entry key="..\:/CookAndroid/Project/Dakku/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/CookAndroid/Project/Dakku/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1535" />
         <entry key="..\:/CookAndroid/Project/Dakku/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1535" />
+        <entry key="..\:/Kkuda/Kkuda/app/src/main/res/drawable/bg_appcolorwhite_radius.xml" value="0.218" />
+        <entry key="..\:/Kkuda/Kkuda/app/src/main/res/drawable/seek_tumb.xml" value="0.218" />
+        <entry key="..\:/Kkuda/Kkuda/app/src/main/res/drawable/seekbar.xml" value="0.218" />
+        <entry key="..\:/Kkuda/Kkuda/app/src/main/res/drawable/shape_for_circle_button.xml" value="0.218" />
+        <entry key="..\:/Kkuda/Kkuda/app/src/main/res/layout/activity_crop_image.xml" value="0.1" />
+        <entry key="..\:/Kkuda/Kkuda/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Kkuda/Kkuda/app/src/main/res/layout/fragment_edit_text.xml" value="0.2" />
       </map>
     </option>
   </component>

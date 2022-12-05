@@ -4,7 +4,11 @@
         <attr name="showIcons" format="boolean" />
         <attr name="showBorder" format="boolean" />
         <attr name="bringToFrontCurrentSticker" format="boolean" />
-        <attr name="borderColor" format="color"/>
-        <attr name="borderAlpha" format="integer"/>
+        <attr name="borderColor" format="color" />
+        <attr name="borderAlpha" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="FullscreenAttrs">
+        <attr name="fullscreenBackgroundColor" format="color" />
+        <attr name="fullscreenTextColor" format="color" />
     </declare-styleable>
 </resources>
